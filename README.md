@@ -73,7 +73,7 @@ style=style，startx=startx，starty=starty，finishx=finishx，finishy=finishy)
 .png24:IE6不支持，其它内核浏览器支持（PS制作)
 .png32：IE6不支持，其它内核浏览器支持
 ###B.图片本身透明
-.png24:IE6不支持（ps制作)，可用filter兼容。
+.png24:IE6不支持（ps制作)，可用filter兼容,
 .png32：IE6不支持，可用filter兼容。
 半透明插入图片兼容IE6做法:（使用png32或PS制作的png24半透明图片）：
 样式：
